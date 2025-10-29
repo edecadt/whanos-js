@@ -1,7 +1,7 @@
 deployment:
   replicas: 2
   ports:
-    - 8080
+    - 3000
   resources:
     limits:
       cpu: 500m
